@@ -6,6 +6,7 @@ public class samplee {
 		System.out.println("Reception");
 		System.out.println("medjygj");
 		system.out.println("test");
+		System.out.println("medical");
 	}
 
 	public static void main(String[] args) {
